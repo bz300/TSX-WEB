@@ -94,7 +94,7 @@
 										<li>Quand le rang no-pyj est acquis, le tribunal forum permet de juger les personnes ayant reçu une plainte, <br />
 										pour y accéder il vous faudra vous rendre au même endroit que pour soumettre une plainte, à une exception prêt, vous devrez cliquez sur "s'occuper du tribunal"</li><br />
 										<li>Cela vous redirigera sur la page "le tribunal : le règlement", et tout en bas de cette page, il vous suffira de cliquer sur "j'ai lu le règlement, et je souhaite traiter un cas".</li><br />
-										<li>L'image ci-dessous, correspond aux pseudos, métier, et rang de la personne suspectée.<br /><br />
+										<li>L'image ci-dessous, correspond aux pseudos, métier, et rang de la personne suspectée des faits.<br /><br />
 										[[Fichier:Tribunnal pseudo.png|400px]]
 										</li><br />
 										<li>L'image ci-dessous correspond à l'endroit où se trouve la raison de la plainte et les informations relatives à cette plainte.<br /><br />
@@ -119,9 +119,9 @@
 								<div class="panel-body">
 									<p>A la suite d'une plainte comme ci-dessus vous pouvez perdre votre no-pyj.<br />
 								Si vous abusez de quelconque commande hors de son contexte prévu vous vous exposez à un risque de ban de nos serveurs.<br />
-								Si on ne vous ban pas, vous aurez surement une sanction qui sera des heures de prison ou bien dans un cas, la perte de ce rang-ci.<br />
+								Si on ne vous ban pas, vous aurez surement une sanction qui sera des heures de prison ou bien dans un cas, la perte de ce rang-ci nécessaire.<br />
 								Vous n'aurais pas accès à ce rang et ne pourrez passer l'examen qu'en cas de réels changements de votre part.<br />
-								Ainsi si vous possédez le rang No-Pyj , vous devrez respecter le règlement.<br />
+								Ainsi si vous possédez le rang No-Pyj , vous devrez respecter le règlement .<br />
 								En effet si vous voulez passer ce rang vous attestez avoir pris conscience du règlement et avoir accepté celui-ci.<br />
 								En vous engageant vous acceptez aussi les sanctions qu'on pourrait entreprendre contre vous.<br />
 								Afin de prospérer et ne pas perdre ce rang presque vital dans votre vie de citoyen vous devrez respecter toutes les règles sans exception.<br />
